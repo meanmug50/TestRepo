@@ -16,3 +16,10 @@ void Hannah::printMe()
     cout << "this->h = \t" << this->h << endl;
     cout << "(*this).h = \t" << (*this).h << endl;
 }
+
+void Hannah::printYou()
+{
+    cout << "h = \t\t" << h << endl;
+    cout << "this->h = \t" << this->h << endl;
+    cout << "(*this).h = \t" << (*this).h << endl;
+}
