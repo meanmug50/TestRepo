@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Hannah.h"
+#include <cstring.h>
 
 using namespace std;
 
