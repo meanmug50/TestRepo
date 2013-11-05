@@ -1,0 +1,7 @@
+*.o
+*.
+file.txt
+obj/
+*.depend
+*.layout
+*.cbp
