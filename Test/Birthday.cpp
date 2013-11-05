@@ -16,3 +16,8 @@ void Birthday::printDate()
 {
     cout << month << "/" << day << "/" << year << endl;
 }
+
+void Birthday::printTime()
+{
+    cout << hours << ":" << minutes << ":" << seconds << endl;
+}
